@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const", "Const\Const.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputConsole", "InputConsole\InputConsole.csproj", "{42E48592-8F27-4CAA-9A77-1A9F0DE2D650}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal", "Equal\Equal.csproj", "{5731CE1B-764A-4332-9EA7-97BA04C5C051}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{42E48592-8F27-4CAA-9A77-1A9F0DE2D650}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E48592-8F27-4CAA-9A77-1A9F0DE2D650}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E48592-8F27-4CAA-9A77-1A9F0DE2D650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5731CE1B-764A-4332-9EA7-97BA04C5C051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5731CE1B-764A-4332-9EA7-97BA04C5C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5731CE1B-764A-4332-9EA7-97BA04C5C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5731CE1B-764A-4332-9EA7-97BA04C5C051}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

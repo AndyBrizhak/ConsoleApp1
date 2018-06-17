@@ -10,6 +10,10 @@ namespace InputConsole
     {
         static void Main(string[] args)
         {
+            const char ch = 'f';
+            const int num = 12;
+            string str1 = "Ok";
+            string str2 = "No";
             //string inputData = Console.ReadLine();
             //Console.WriteLine(inputData);
             //Console.ReadKey();
@@ -30,7 +34,9 @@ namespace InputConsole
             //Console.WriteLine(++x++);
             //x = 1.5;
             //Console.WriteLine(x++);
-            //Console.WriteLine(x);
+            Console.WriteLine(str1!=str2);
+
+
 
         }
     }
