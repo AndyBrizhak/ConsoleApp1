@@ -10,6 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //
+            var x=2.5;
+            var y = 1.5;
+            double z = x % y;
+
         }
     }
 }
